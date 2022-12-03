@@ -1,22 +1,22 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 # CS110 Project Proposal
-# << Project Title >>
+# << The Ultimate Challenge! >>
 ## CS 110 Final Project
-### << Semester, Year >>
+### << Fall, 2022 >>
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit?usp=sharing)
 
 << [repl](#) >>
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: << Team 37 >>
+#### << Cody Musial, Yishi Wang >>
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+<< Its a matching game where the tiles rest upside down and the goal is to try and match all the tiles by flipping two over to see if they match with their corresponding pair. If incorrect the tiles flip back upside down and you continue to search for a pair. >>
 
 ***    
 
@@ -32,7 +32,6 @@
 ***        
 
 ## Program Design
-
 * Non-Standard libraries
     * << You should have a list of any additional libraries or modules used (pygame, request) beyond non-standard python. 
          For each additional module you should include
@@ -60,11 +59,12 @@ The Project is broken down into the following file structure:
 
 ## Tasks and Responsibilities 
 
-   * Outline the team member roles and who was responsible for each class/method, both individual and collaborative.
+   * Cody: Responsible for easy.py, medium.py, hard.py
+   * Yishi(Rocky): Responsible for .
 
 ## Testing
 
-* << Describe your testing strategy for your project. >>
+* << We tested as we created the buttons and adjusted the grid size. When we made the first button we tested to see if our button works, we then tested as we made tiles flip over. Then we would test as we increase the size or alter the code. >>
 
 ## ATP
 
